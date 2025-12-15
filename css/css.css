@@ -1,0 +1,18 @@
+body{
+	background-color:#ccbbaa;
+	font-family:trebuchet ms;
+}
+.info-box{
+	border:1px solid red;
+	background-color:#eeeeee;
+	padding: 10%;
+	margin-bottom:300px;
+	text-align:center;
+	width:60%;
+}
+nav li{
+	display:inline-block;
+	padding-right:15%;
+	padding-bottom:5%;
+	padding-top:5%;
+}
